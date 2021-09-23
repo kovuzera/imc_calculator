@@ -1,0 +1,22 @@
+[
+  {
+    "id": "6d01957a-1c2c-11ec-9621-0242ac130002",
+    "rank": "Magreza (menos que 18.5)"
+  },
+  {
+    "id": "71623aa2-1c2c-11ec-9621-0242ac130002",
+    "rank": "Normal (entre 18.5 e 24.9)"
+  },
+  {
+    "id": "739d127e-1c2c-11ec-9621-0242ac130002",
+    "rank": "Sobrepeso (entre 25.0 e 29.9)"
+  },
+  {
+    "id": "753e0b9c-1c2c-11ec-9621-0242ac130002",
+    "rank": "Obesidade (entre 30.0 e 39.9)"
+  },
+  {
+    "id": "775f89fa-1c2c-11ec-9621-0242ac130002",
+    "rank": "Obesidade Grave (mais que 40)"
+  }
+]
